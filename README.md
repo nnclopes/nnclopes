@@ -2,6 +2,7 @@
 
 <!--
 **nnclopes/nnclopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Nívea Lopes, aventureira nesta área e buscando criar uma ligação entre arquitetura e data analytics.
 
 Here are some ideas to get you started:
 
